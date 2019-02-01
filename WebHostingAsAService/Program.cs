@@ -15,6 +15,7 @@ namespace WebHostingAsAService
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
+/* hahah */
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
